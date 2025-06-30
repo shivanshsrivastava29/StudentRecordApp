@@ -1,0 +1,51 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background: #f3f6f9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 8px;
+    transition: 0.3s ease-in-out;
+}
+
+    .btn:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    }
+/* Highlight Name column */
+td.name-column {
+    background: #e3f2fd; /* light blue */
+    font-weight: bold;
+    color: #0d47a1;
+    border-radius: 4px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.1);
+    transition: 0.3s ease-in-out;
+}
+
+    td.name-column:hover {
+        background: #bbdefb; /* slightly darker on hover */
+        transform: scale(1.02);
+    }
