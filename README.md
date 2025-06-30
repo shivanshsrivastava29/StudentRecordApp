@@ -57,7 +57,7 @@ StudentRecordApp/
 
 **Shivansh Srivastava**  
 🧑‍💻 Aspiring Full Stack Developer  
-🔗 [LinkedIn](www.linkedin.com/in/shivansh-srivastava-aks)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivansh-srivastava-aks)
 🌐 [GitHub](https://github.com/shivanshsrivastava29)
 
 ---
